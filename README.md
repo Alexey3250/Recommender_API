@@ -1,3 +1,5 @@
+<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2018/12/catboost_hero.png" width="100%">
+
 # Recommender System API
 
 This repository contains the code for a personalized recommendation system API. The system is designed to provide personalized text post recommendations based on user data. The goal was to create an API that would return JSONs with text posts on request.
