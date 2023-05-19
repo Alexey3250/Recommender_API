@@ -82,8 +82,6 @@ Here is a diagram that illustrates the workflow of the recommendation system:
 
 ![Workflow Diagram](https://showme.redstarplugin.com/s/HhAbRWIt)
 
-You can [edit this diagram online](https://showme.redstarplugin.com/s/BbOjZHXl) if you want to make any changes.
-
 In this workflow:
 
 1. User data is extracted, transformed, and loaded (ETL) in the `features_uploader.ipynb` notebook.
